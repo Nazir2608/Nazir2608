@@ -1,5 +1,5 @@
 Hi, I'm Nazir! 👋  
-🔥 Software Developer grinding hard to make something cool
+🔥 Software Developer grinding hard to make something cool  
 ✨ Favorite Tech: Java, JavaScript, React, Node.js  
 📧 nazirsmi786@gmail.com  
 🎨 Portfolio: [Link](https://link-to-portfolio)  
