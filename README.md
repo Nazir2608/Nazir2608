@@ -1,7 +1,7 @@
 Hi, I'm Nazir! 👋  
 🔥 Software Developer grinding hard to make something cool  
 ✨ Favorite Tech: Java, JavaScript, React, Node.js  
-📧 nazirsmi786@gmail.com  
+📧 mdnazir@gmail.com  
 🎨 Portfolio: [Link](https://link-to-portfolio)  
 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/md-nazir-6427b816b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 💼 Building [RefactorNow](https://www.refactorno.dev/) - Learn the Art of Refactoring
@@ -13,8 +13,8 @@ Hi, I'm Nazir! 👋
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Black Duck](https://img.shields.io/badge/Black%20Duck-000000?style=for-the-badge&logo=blackduck&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM WebSphere](https://img.shields.io/badge/IBM%20WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
