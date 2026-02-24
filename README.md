@@ -96,15 +96,30 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 ---
 
-# 📊 GitHub Stats 📈
+# 📊 GitHub Stats 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazir2608&show_icons=true&theme=dark" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Nazir2608&theme=dark" height="165"/>
+
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nazir2608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=Nazir2608&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nazir2608&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
 </p>
 
 ---
-
 # 🎯 Engineering Philosophy 🏗️
 
 > 💡 Code that works is good.  
